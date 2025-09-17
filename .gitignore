@@ -1,0 +1,16 @@
+# Python cache
+app/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+.vscode
+tests/__pycache__/
+
+# Model files (if large)
+*.h5
+*.ckpt
+*.pt
+*.pth
